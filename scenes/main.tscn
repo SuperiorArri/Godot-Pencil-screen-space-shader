@@ -61,7 +61,7 @@ texture = ExtResource( 1 )
 [node name="FilterLayer" type="CanvasLayer" parent="Camera2D"]
 layer = 2
 
-[node name="OldBookFilter" type="ColorRect" parent="Camera2D/FilterLayer"]
+[node name="PencilFilter" type="ColorRect" parent="Camera2D/FilterLayer"]
 material = SubResource( 5 )
 anchor_right = 1.0
 anchor_bottom = 1.0
