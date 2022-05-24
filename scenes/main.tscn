@@ -3,7 +3,7 @@
 [ext_resource path="res://icon.png" type="Texture" id=1]
 [ext_resource path="res://assets/images/mountain_landscape.webp" type="Texture" id=7]
 [ext_resource path="res://assets/images/parchment.jpg" type="Texture" id=14]
-[ext_resource path="res://shaders/screen_space/old_book.gdshader" type="Shader" id=15]
+[ext_resource path="res://shaders/screen_space/pencil.gdshader" type="Shader" id=15]
 [ext_resource path="res://assets/images/pencil.jpg" type="Texture" id=16]
 
 [sub_resource type="ShaderMaterial" id=5]
